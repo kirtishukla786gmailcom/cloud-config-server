@@ -15,5 +15,5 @@ microservice:
     endpoints:
       endpoint:
         uri1: http://ORDER-SERVICE/order/bookOrder
-        uri2:http://ORDER-SERVICE/order/
+        uri2: http://ORDER-SERVICE/order/
     
